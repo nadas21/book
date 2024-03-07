@@ -1,0 +1,96 @@
+.info-box {
+  display: flex;
+  align-items: center;
+  margin-top: 61px;
+  left: 3790px;
+}
+.info-link {
+  width: 613px;
+  height: 650px;
+  align-items: center;
+  background-color: #cfcfcf;
+}
+.info-text {
+  background-color: #ffffff;
+  width: 576px;
+  height: 650px;
+  align-items: center;
+}
+.info-link-img {
+  width: 350px;
+  height: 266px;
+  margin-top: 126px;
+  margin-left: 146px;
+  border-radius: 15px, 15px, 0px, 0px;
+}
+.info-h2 {
+  margin-top: 23px;
+  width: 225px;
+  height: 34px;
+  margin-left: 35%;
+}
+.info-btn {
+  margin-top: 45px;
+  width: 328px;
+  height: 46px;
+  margin-left: 157px;
+  background-color: #152540;
+  color: #ffffff;
+  border-radius: 99px;
+  font-family: Red Hat Display;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  cursor: pointer;
+}
+.info-text-h2 {
+  padding-left: 170px;
+  margin-top: 31px;
+  font-family: Arial Black;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 51px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.info-text-btn {
+  background-color: #152540;
+  width: 328px;
+  height: 46px;
+  border-radius: 99px;
+  color: #ffffff;
+  font-family: Red Hat Display;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-left: 120px;
+  margin-top: 30px;
+}
+.info-input {
+  width: 330px;
+  height: 200px;
+}
+.info-list {
+  width: 330px;
+  height: 46px;
+  margin-top: 24px;
+  margin-left: 118px;
+  border-radius: 4px;
+  border: 1px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  border-radius: 10px;
+  background-color: #B4B4BB;
+  color: #000000;
+}
+.info-item {
+  flex-wrap: wrap;
+}

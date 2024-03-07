@@ -1,0 +1,115 @@
+.new-box {
+    display: flex;
+    align-items: center;
+}
+.new-link {
+    border-radius: 0px, 50px,50px,0px;
+}
+.new-img {
+    margin-top: 79px;
+}
+.new-list {
+    height: 300px;
+    width: 400px;
+}
+.new-item-list {
+    display: flex;
+    align-items: center;
+}
+.new-happy {
+    color: #FFFFFF;
+    font-size: 12px;
+    margin-left: 20px;
+}
+.new-happy:nth-child(2) {
+    color: #FFFFFF;
+    font-size: 12px;
+    margin-left: 30px;
+}
+.new-list-h4-1 {
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 5px;
+}
+.new-list-h4-2 {
+    color: #FFFFFF;
+margin-left: 110px;
+margin-top: 30px;
+}
+.new-list-h2 {
+    font-family: Rotterburg Stylish FREE;
+font-size: 39px;
+font-weight: 400;
+line-height: 56px;
+letter-spacing: 0em;
+color: #C9AC8C;
+}
+.new-text {
+    margin-bottom: 330px;
+    margin-left: 92px;
+}
+.new-h1 {
+    font-family: Rotterburg Stylish FREE;
+font-size: 48px;
+font-weight: 400;
+line-height: 53px;
+letter-spacing: 0em;
+color: #C9AC8C;
+}
+.new-p {
+    
+    font-family: Steinbeck;
+font-size: 16px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+width: 671.56px;
+height: 253px;
+padding: 10px;
+}
+.new-h3 {
+    color: #C9AC8C;
+    font-family: Rotterburg Stylish FREE;
+font-size: 20px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+margin-top: 21px;
+}
+.new-item-p {
+    margin-top: 10px;
+    font-family: Steinbeck;
+font-size: 12px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+width: 362.67px;
+height: 58.86px;
+top: 515.64px;
+left: 705px;
+margin-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

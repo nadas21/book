@@ -1,0 +1,38 @@
+.header {
+}
+.container {
+}
+.header-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+.header-img {
+}
+.list-item {
+    display: flex;
+    align-items: center;
+}
+.list-item-link {
+padding-left: 20px;
+}
+.list-item-link:nth-child(1) {
+    padding-left: 0px;
+}
+.list-box-link {
+    font-size: 16px;
+    line-height: 23.1px;
+    color: aliceblue;
+    font-family: Rotterburg Stylish FREE;
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+    border: transparent;
+    letter-spacing: 0.25px;
+}

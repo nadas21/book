@@ -1,0 +1,132 @@
+.nav {
+  align-items: center;
+}
+.nav-h2 {
+  color: #c9ac8c;
+  width: 322px;
+  height: 34px;
+  margin-left: 38%;
+}
+.nav-list {
+  display: flex;
+  align-items: center;
+  margin-left: 35%;
+}
+.nav-list-item {
+  padding-left: 25px;
+  font-family: Steinbeck;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.nav-link:hover {
+  color: #c9ac8c;
+}
+.nav-list-item :nth-child(1) {
+  padding-left: 0px;
+}
+.nav-link {
+  color: #ffffff;
+}
+.news-item {
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: transparent;
+}
+.card-inner{
+  width: 1300px;
+  flex-wrap: wrap;
+}
+.news-card{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.card-box {
+  margin-left: 20px;
+  width: 173.33px;
+  height: 236.74px;
+  top: 764.96px;
+  left: 101.4px;
+  border-radius: 15px;
+}
+.card-h4 {
+  color: #c9ac8c;
+  font-size: 20px;
+  width: 142px;
+  height: 20px;
+  margin-top: 10px;
+  margin-left: 60px;
+}
+.card-h5 {
+  width: 58px;
+  height: 12px;
+  color: #ffffff;
+  font-family: Steinbeck;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 0em;
+  margin-left: 60px;
+  margin-top: 10px;
+}
+.card-p {
+  color: #ffffff;
+}
+
+.news-item {
+  border-radius: 10px;
+  margin-left: 50px;
+  height: 400px;
+}
+.news-img {
+  border-radius: 10px;
+}
+.card-box {
+  padding: 20px;
+}
+.card-title {
+  width: 200px;
+}
+.card-text {
+margin-left: 35%;
+width: 200px;
+}
+.card-bottom {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card-time {
+  width: 50%;
+  font-weight: 600;
+  font-size: 12px;
+  color: #797878;
+}
+.card-btn {
+  background-color: rgb(0, 107, 200);
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 16px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  color: aliceblue;
+  padding: 5px 13px;
+  border: #000 2px solid;
+}
+.card-btn:hover {
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 16px;
+  background-color:#ffffff;
+  border-radius: 8px;
+  color: #adadad;
+}
